@@ -1,39 +1,14 @@
 {
-  "project_info": {
-    "project_number": "675973221940",
-    "project_id": "koplo-joss-fd3c7",
-    "storage_bucket": "koplo-joss-fd3c7.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:675973221940:android:e53d49e17999f2eeb90461",
-        "android_client_info": {
-          "package_name": "com.premium.koplo"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "675973221940-mbbof0gtcnc1128at0a9f88pe51d1ur3.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAWfrJQCnM_3GPlzvHE2evJBawNAz7rOYk"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "675973221940-mbbof0gtcnc1128at0a9f88pe51d1ur3.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "configuration_version": "1"
+	"banner": "ca-app-pub-3940256099942544/6300978111",
+	"banner_show": "true",
+	"interstitial": "ca-app-pub-3940256099942544/1033173712",
+	"interstitial_show": "true",
+	"interstitial_count": "3",
+	"native": "KOSONGIN",
+	"native_show": "false",
+	"interval_native": "200",
+	"open_app": "ca-app-pub-3940256099942544/1033173712",
+	"open_app_show": "true",
+	"package_name": "com.andi.test_app",
+	"status": "0"
 }
