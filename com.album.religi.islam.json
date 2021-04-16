@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "242919921475",
+    "project_id": "juve-4a0a4",
+    "storage_bucket": "juve-4a0a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242919921475:android:cdfd9593b5f5a08e57c1f6",
+        "android_client_info": {
+          "package_name": "com.album.religi.islam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242919921475-pvuhhiacabbpa0q6pdrnghhi6h6rtopj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXXQVYG31ioUxGqui_Cl1-BjYIoCxOgmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242919921475-pvuhhiacabbpa0q6pdrnghhi6h6rtopj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242919921475:android:6689d347c40fee6f57c1f6",
+        "android_client_info": {
+          "package_name": "com.sobat.koplo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242919921475-pvuhhiacabbpa0q6pdrnghhi6h6rtopj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXXQVYG31ioUxGqui_Cl1-BjYIoCxOgmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242919921475-pvuhhiacabbpa0q6pdrnghhi6h6rtopj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9448728479386226~6504414541"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242919921475:android:4156df0ab99a3c4d57c1f6",
+        "android_client_info": {
+          "package_name": "com.vladsong.offline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242919921475-pvuhhiacabbpa0q6pdrnghhi6h6rtopj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXXQVYG31ioUxGqui_Cl1-BjYIoCxOgmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242919921475-pvuhhiacabbpa0q6pdrnghhi6h6rtopj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9448728479386226~3448512964"
+    }
+  ],
+  "configuration_version": "1"
+}
