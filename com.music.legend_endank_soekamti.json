@@ -1,97 +1,14 @@
 {
-  "project_info": {
-    "project_number": "1089711422252",
-    "project_id": "test-app-a7e16",
-    "storage_bucket": "test-app-a7e16.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:1089711422252:android:087b68c80f48fe3854ca89",
-        "android_client_info": {
-          "package_name": "com.app.test"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "1089711422252-38ujviup0fku161uo2lfahvp3mfsastu.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAkKLxqXrsL4a16C0wEgn1NJZFaQk1_sKI"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1089711422252-38ujviup0fku161uo2lfahvp3mfsastu.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:1089711422252:android:4c367626097766b454ca89",
-        "android_client_info": {
-          "package_name": "com.dj.spongbob_vs_naruto_offline"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "1089711422252-38ujviup0fku161uo2lfahvp3mfsastu.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAkKLxqXrsL4a16C0wEgn1NJZFaQk1_sKI"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1089711422252-38ujviup0fku161uo2lfahvp3mfsastu.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:1089711422252:android:82b42a0abf9c1fbb54ca89",
-        "android_client_info": {
-          "package_name": "com.music.legend_endank_soekamti"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "1089711422252-38ujviup0fku161uo2lfahvp3mfsastu.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAkKLxqXrsL4a16C0wEgn1NJZFaQk1_sKI"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1089711422252-38ujviup0fku161uo2lfahvp3mfsastu.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "configuration_version": "1"
+	"banner": "ca-app-pub-9448728479386226/3554285719",
+	"banner_show": "true",
+	"interstitial": "ca-app-pub-9448728479386226/2241204044",
+	"interstitial_show": "true",
+	"interstitial_count": "3",
+	"native": "KOSONGIN",
+	"native_show": "false",
+	"interval_native": "200",
+	"open_app": "ca-app-pub-9448728479386226/9928122375",
+	"open_app_show": "true",
+	"package_name": "com.andi.test_app",
+	"status": "1"
 }
