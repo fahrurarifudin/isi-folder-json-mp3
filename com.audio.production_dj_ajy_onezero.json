@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288026412003",
+    "project_id": "audio-production-e2448",
+    "storage_bucket": "audio-production-e2448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288026412003:android:5c0ff735014ff9643996d6",
+        "android_client_info": {
+          "package_name": "com.audio.production_dj_ajy_onezero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288026412003-vl6v91hnv75j64f1ukpb2bt8ro0m19s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxM8PZmw5cVU2P9DGWril827YVXeuZrBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288026412003-vl6v91hnv75j64f1ukpb2bt8ro0m19s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
