@@ -1,13 +1,13 @@
 {
-	"banner": "ca-app-pub-9448728479386226/6388224816",
+	"banner": "ca-app-pub-9448728479386226/2486311662",
 	"banner_show": "true",
-	"interstitial": "ca-app-pub-9448728479386226/5075143141",
+	"interstitial": "ca-app-pub-9448728479386226/2632817175",
 	"interstitial_show": "true",
 	"interstitial_count": "5",
 	"native": "KOSONGIN",
 	"native_show": "false",
 	"interval_native": "200",
-	"open_app": "ca-app-pub-9448728479386226/4505949899",
+	"open_app": "ca-app-pub-9448728479386226/6233984981",
 	"open_app_show": "true",
 	"package_name": "com.andi.test_app",
 	"status": "1"
